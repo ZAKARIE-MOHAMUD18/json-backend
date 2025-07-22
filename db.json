@@ -1,0 +1,16 @@
+{
+  "goals": [
+    {
+      "id": 1,
+      "title": "Save for emergency fund",
+      "target": 100000,
+      "progress": 25000
+    },
+    {
+      "id": 2,
+      "title": "Buy a laptop",
+      "target": 80000,
+      "progress": 20000
+    }
+  ]
+}
